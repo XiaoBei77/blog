@@ -30,7 +30,7 @@ export type NavBarLink = {
   url: string
   external?: boolean
 }
-
+  
 export type NavBarConfig = {
   links: (NavBarLink | LinkPreset)[]
 }

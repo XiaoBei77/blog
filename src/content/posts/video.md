@@ -25,4 +25,4 @@ published: 2023-10-19
 
 ## Bilibili
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="yes" border="0" frameborder="yes" framespacing="0" allowfullscreen="true"> </iframe>
